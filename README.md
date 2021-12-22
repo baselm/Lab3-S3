@@ -1,5 +1,4 @@
-# Lab3-S3
-Module 3 Guided Lab - Hosting a Static Website
+# Module 3 Guided Lab - Hosting a Static Website
 
 👍 Subscribe to the channel: (https://www.youtube.com/c/CloudComputinginAWS?sub_confirmation=1)
 ## 📋 Module 3 Guided Lab - Hosting a Static Website
@@ -15,4 +14,8 @@ Public access to buckets is blocked by default. Because the files in your static
 -  Make all objects public 
 -  Test your website page is accessibale
 # Download the static website file and upload them to S3 bucket 
+- index.html 
+- script.jss
+- style.css
+
 
